@@ -1,0 +1,9 @@
+﻿@using FA.Model
+@model Grade
+
+<form method="post" class="form-control">
+    <input type="hidden" value="@Model.Id" name="Id" id="Id" />
+    <input type="text" class="form-control form-control-lg" value="@Model.Name" 
+    name="Name" id="GradeName" placeholder="Input Grade Name">
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

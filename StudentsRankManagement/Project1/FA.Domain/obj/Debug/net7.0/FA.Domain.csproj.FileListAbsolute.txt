@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\bin\Debug\net7.0\FA.Domain.deps.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\bin\Debug\net7.0\FA.Domain.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\bin\Debug\net7.0\FA.Domain.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\bin\Debug\net7.0\FA.Data.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\bin\Debug\net7.0\FA.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\bin\Debug\net7.0\FA.Data.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\bin\Debug\net7.0\FA.Model.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\FA.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\FA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\FA.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\FA.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\FA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\FA.Domain.csproj.CopyComplete
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\FA.Domain.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\refint\FA.Domain.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\FA.Domain.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Domain\obj\Debug\net7.0\ref\FA.Domain.dll

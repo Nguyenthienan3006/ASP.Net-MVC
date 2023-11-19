@@ -1,0 +1,19 @@
+﻿@using FA.Model
+@model List<Grade>
+
+<h2>Create Student</h2>
+
+<form method="post" class="form-control">
+    <input type="text" class="form-control form-control-lg" name="Name" id="Name"
+           placeholder="Input Student Name">
+    <input type="text" class="form-control form-control-lg" name="Email" id="Email"
+           placeholder="Input Student Email">
+    <select name="GradeId" id="GradeId" class="form-control form-control-lg">
+        <option hidden>Select Grade</option>
+        @foreach(var grade in Model)
+        {
+            <option value="@grade.Id">@grade.Name</option>
+        }
+    </select>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

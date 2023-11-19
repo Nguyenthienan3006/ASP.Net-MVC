@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\bin\Debug\net7.0\FA.Data.deps.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\bin\Debug\net7.0\FA.Data.runtimeconfig.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\bin\Debug\net7.0\FA.Data.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\bin\Debug\net7.0\FA.Data.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\bin\Debug\net7.0\FA.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\bin\Debug\net7.0\FA.Model.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\FA.Data.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\FA.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\FA.Data.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\FA.Data.AssemblyInfo.cs
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\FA.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\FA.Data.csproj.CopyComplete
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\FA.Data.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\refint\FA.Data.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\FA.Data.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\FA.Data.genruntimeconfig.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Data\obj\Debug\net7.0\ref\FA.Data.dll

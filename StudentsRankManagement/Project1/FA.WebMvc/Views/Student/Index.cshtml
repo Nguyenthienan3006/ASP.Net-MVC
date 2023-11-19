@@ -1,0 +1,33 @@
+﻿@using FA.Model
+@model List<Student>
+
+<h2>List Students</h2>
+<a href="~/Student/Create">Create student</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Student Id</th>
+            <th>Grade Id</th>
+            <th>Student Name</th>
+            <th>Email</th>
+            <th>Date Of Join</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var s in Model)
+        {
+            <tr>
+                <td>@s.Id</td>
+                <td>@s.GradeId</td>
+                <td>@s.Name</td>
+                <td>@s.Email</td>
+                <td>@s.DateOfJoin</td>
+                <td>
+                    <a href="~/Student/Edit/@s.Id">Edit</a> | 
+                    <a href="~/Student/Delete/@s.Id"
+                    onclick="return confirm('Do you want to delete this item')">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

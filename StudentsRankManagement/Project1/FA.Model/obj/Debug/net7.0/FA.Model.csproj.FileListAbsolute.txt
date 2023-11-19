@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\bin\Debug\net7.0\FA.Model.deps.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\bin\Debug\net7.0\FA.Model.runtimeconfig.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\bin\Debug\net7.0\FA.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\bin\Debug\net7.0\FA.Model.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\FA.Model.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\FA.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\FA.Model.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\FA.Model.AssemblyInfo.cs
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\FA.Model.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\FA.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\refint\FA.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\FA.Model.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\FA.Model.genruntimeconfig.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Project1\FA.Model\obj\Debug\net7.0\ref\FA.Model.dll
